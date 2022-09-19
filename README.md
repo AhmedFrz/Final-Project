@@ -82,21 +82,43 @@ Analysis
 
 ![](Resources/c1.png)
 
+
+
 ![](Resources/c2.png)
+
+
 
 ![](Resources/c3.png)
 
+
+
 ![](Resources/d1.png)
+
+
+
+
 
 ![](Resources/d2.png)
 
+
+
 ![](Resources/d3.png)
+
+
 
 ![](Resources/d4.png)
 
+
+
 ![](Resources/d5.png)
+
+
 
 ![](Resources/d6.png)
 
+
+
 ![](Resources/d7.png)
+
+
 
