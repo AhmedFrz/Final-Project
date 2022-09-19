@@ -1,9 +1,6 @@
 ## FINAL PROJECT - SEGMENT 1. 
 
-## Selected Topic: 
-
-
-The Effects of COVID-19 on the Global Macroeconomy.
+### Topic: The Effects of COVID-19 on the Global Macroeconomy.
 
 
 ## Reason Why They Selected Their Topic: 
@@ -47,3 +44,40 @@ Excel, SQL, Python/Pandas, Tableau.
 
 
 # Segment 2
+
+## Slide 1: 
+### Topic: The Effects of Covid-19 on Global Macroeconomy
+
+## Slide 2:
+### Why the topic was selected?
+
+* Uncertainty and impact of the pandemic 
+* It impacted businesses, organizations, and economies 
+* We aim to explore how and to what extent it has impacted the countries around the globe
+
+
+
+## Slide 3: 
+#### Description of the Source of Data
+
+Size of data: 211 countries
+Columns: 
+Location, Date, Total Cases, Total Deaths, Stringency Index, Population, GDP Per Capita, Human Development Index.
+Source: Mendeley Data
+	(https://data.mendeley.com/datasets/b2wvnbnpj9/1)
+
+ 
+## Slide 4: 
+## Questions the Team Hopes to Answer With the Data
+
+1. Which countries were most and least affected by Covid-19
+2. What income group the countries affected fall into?
+3. Is GDP per capita a determinant of cross-country differentials in impact of Covid-19?
+4. Is HDI a determinant of cross-country differentials in impact of Covid-19?
+5. Is population size a determinant of cross-country differentials in impact of Covid-19?
+
+
+## Slide 
+Analysis
+
+![](Resources/Resources/c1.png)
