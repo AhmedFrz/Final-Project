@@ -42,3 +42,8 @@ https://data.mendeley.com/datasets/b2wvnbnpj9/1
  
  
 Excel, SQL, Python/Pandas, Tableau. 
+
+
+
+
+# Segment 2
