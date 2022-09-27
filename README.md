@@ -195,3 +195,12 @@ We see how variables affect the number of cases.
 Therefore, we drop total_deaths variable due to its high correlation to the total_cases variable.
 The most relevant features, are those that influence the predictor variable total_cases the most.
 
+We first remove non-numeric variables; which is dropping; iso_code, location and date.
+
+We then drop the predictor variable from the dataset df_pre, and the variable total_deaths too and finally drop highly correlated variables.
+
+Convert the pandas dataframe df_pre to a numpy array; to enable computation and normalize the data.
+
+The final step is creating the model and checking for feature imprtance.
+
+This concludes that stringency index is the highest predictor for total cases and total deaths.
