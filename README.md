@@ -182,5 +182,16 @@ The link to the google slide Dashboard presentation can be accessed via https://
 
 (III).	MACHINE LEARNING
 
+We begin by reading in the cleaned data from the database, cleaned_covid_data.csv.
+See below preview.
 
+To answer out first two questions, we view the data generally and and get the first and last 25 countries according to total cases.
+We then view their gdp per capita in a graph.
+From this, we can conclude that generally speaking,countries most affected belong to high income groups owing to their high gdp_per_capita.
+
+
+To answer the rest of out project questions, we look to machine learning.
+We see how variables affect the number of cases. 
+Therefore, we drop total_deaths variable due to its high correlation to the total_cases variable.
+The most relevant features, are those that influence the predictor variable total_cases the most.
 
