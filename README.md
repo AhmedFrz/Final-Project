@@ -227,7 +227,10 @@ The link to the google slide Dashboard presentation can also be accessed via htt
 
 As seen in the analysis, the COVID-19 pandemic had a great negative impacts on the world’s economy. The maps and the charts also showed how the pandemic affected the GDP per capita, HDI and the population size generally.
 
-Besides, having used different machine learning algorithms and calculating their mean squared error, r2 score and their max error, we can come to conclusions by inference that the decision tree algorithm is the best algorithm to be used for the prediction of covid 19 since its have r2 t0 be 0.99
+Besides, having used different machine learning algorithms and calculating their mean squared error, r2 score and their max error, we can come to conclusions by inference that the decision tree algorithm is the best algorithm to be used for the prediction of covid 19 since it has r2 to be 0.99.
+
+The link to the final presentation can be viewed via 
+https://onedrive.live.com/view.aspx?resid=82DEB15FC3DB240C!2370&ithint=file%2cpptx&authkey=!AN2pAVWT03uPVNk
 
 
 
