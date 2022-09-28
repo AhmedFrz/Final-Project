@@ -201,6 +201,6 @@ We then drop the predictor variable from the dataset df_pre, and the variable to
 
 Convert the pandas dataframe df_pre to a numpy array; to enable computation and normalize the data.
 
-The final step is creating the model and checking for feature imprtance.
+The final step is creating the model and checking for feature importance.
 
 This concludes that stringency index is the highest predictor for total cases and total deaths.
